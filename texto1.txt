@@ -1,8 +1,4 @@
 Este es el texto1. Soy Roberto. Soy Daniel
-<<<<<<< HEAD
 Modificado por Daniel
 
 asadaddd
-=======
-Modificado por Daniel
->>>>>>> parent of e9522bc (Update texto1.txt)
